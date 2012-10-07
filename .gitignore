@@ -1,0 +1,10 @@
+out/
+
+.idea/
+*.iml
+*.ipr
+
+target/
+
+settings.properties
+run.log
